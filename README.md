@@ -22,4 +22,4 @@ x
 
 ### Word chain game
 
-Airplane -> elephant -> tower -> ring -> ginger -> romantic -> curious -> success -> saturday -> youngish -> horror -> ram -> machine -> expensive
+Airplane -> elephant -> tower -> ring -> ginger -> romantic -> curious -> success -> saturday -> youngish -> horror -> ram -> machine -> expensive -> eleven
